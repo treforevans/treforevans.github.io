@@ -11,7 +11,7 @@ If you are interested in collaborating on an application, please reach out to me
 
 # Publications
 ###  Discretely Relaxing Continuous Variables for tractable Variational Inference
-<img align="right" style="max-width: 200px; height: auto; " hspace="10" src="imgs/direct.png">
+<img align="right" style="max-width: 220px; height: auto; " hspace="10" src="imgs/direct.png">
 Trefor W. Evans and Prasanth B. Nair.  <br /> 
  In Advances in Neural Information Processing Systems (NIPS), 2018.  <br /> 
 [<a href="https://arxiv.org/abs/1809.04279">Paper</a>]
@@ -36,6 +36,20 @@ SIAM International Conference on Data Mining (SDM), 2018.  <br />
 [<a href="https://github.com/treforevans/gp_grid">Code</a>]
 [<a href="files/gappy_sdm_slides.pdf">Slides</a>]
 [<a href="files/gappy_sdm_poster.pdf">Poster</a>]
+<br clear="right" />
+
+### Undergraduate Thesis
+<img align="right" style="max-width: 250px; height: auto; " hspace="10" src="imgs/eta_ideal_cp.jpg">
+Trefor W. Evans  <br /> 
+University of Toronto, Engineering Science, 2014.  <br /> 
+[<a href="files/undergrad_thesis.pdf">Thesis</a>]
+[<a href="http://www.aerovelo.com/mission-log/2015/7/24/aerodynamic-design-of-eta">Blog Post</a>]
+
+Developed a practical inverse aerodynamic shape optimization design process to achieve highly laminar flow bodies with an optimal pressure recovery.
+Using this process, I designed Eta, a vehicle that I later built with AeroVelo, and which currently holds the world speed record at 144.17km/hr on a flat road!
+Checkout
+the [short video of our record-breaking run](https://www.youtube.com/watch?v=0JIB-rMGqCE), and
+the [AeroVelo project page](http://www.aerovelo.com/our-projects/#eta-speedbike).
 <br clear="right" />
 
 # Teaching
@@ -63,10 +77,10 @@ our [project page](http://www.aerovelo.com/atlas-helicopter).
 ## Eta Speedbike
 <img align="right" style="max-width: 500px; height: auto; " hspace="10" src="https://static1.squarespace.com/static/5500421ce4b028ce8ab9d39c/t/57fb17e1ff7c5085cbe52604/1476073665068/?format=1000w">
 Developed a high-speed Human-Powered land vehicle that travelled at 144.17 km/hr on a flat road to break the world land-speed record.
-For my undergraduate thesis, I developed a practical aerodynamic shape optimization process to design Eta's highly laminar flow body. 
+For [my undergraduate thesis](files/undergrad_thesis.pdf), I developed a practical aerodynamic shape optimization process to design Eta's highly laminar flow body (see [my blog post](http://www.aerovelo.com/mission-log/2015/7/24/aerodynamic-design-of-eta)). 
 Conducted other extensive research projects including structural and aero-structural optimization to design the vehicle's frame and wheels. 
 Our small team of 3 to 6 people manufactured all components in-house.
 Checkout
-the [short video of the record-breaking run](https://www.youtube.com/watch?v=0JIB-rMGqCE)
+the [short video of our record-breaking run](https://www.youtube.com/watch?v=0JIB-rMGqCE), and
 our [project page](http://www.aerovelo.com/our-projects/#eta-speedbike).
 <br clear="right" />
