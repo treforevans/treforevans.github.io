@@ -1,6 +1,6 @@
-<table style="width:100%">
+<table style="width:100%"  border="0">
 <tr>
-<td><img align="left" style="max-width: 250px; height: auto; " src="/imgs/trefor.jpg"><\td>
+<td><img style="max-width: 250px; height: auto; " src="/imgs/trefor.jpg"></td>
 <td>
 I am currently a PhD candidate at the University of Toronto conducting machine learning research on Bayesian methods for big data.
 Much of my work has involved scaling Gaussian Processes to large datasets, however, I also work on discrete latent variable models as well as deep latent variable models.
@@ -15,7 +15,7 @@ If you are interested in collaborating on an application, please reach out to me
 </table>
 
 # Publications
-<table style="width:100%">
+<table style="width:100%"  border="0">
 <tr>
 <td> <img style="max-width: 200px; height: auto; " src="imgs/direct.png"></td>
 <td>
