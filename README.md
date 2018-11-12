@@ -10,3 +10,9 @@ To launch, run
 bundle exec jekyll serve
 ```
 And I can preview the local Jekyll site in the web browser at `http://localhost:4000`
+
+You can view on a mobile device in the same local network by running the following
+```
+ssh -R 80:localhost:4000 ssh.localhost.run
+```
+and then going to `https://trefor.localhost.run` on the local device.

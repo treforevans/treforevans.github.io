@@ -1,7 +1,4 @@
-<table style="width:100%"  border="0">
-<tr>
-<td><img style="max-width: 250px; height: auto; " src="/imgs/trefor.jpg"></td>
-<td>
+<img align="left" style="max-width: 250px; height: auto; " hspace="10" src="/imgs/trefor.jpg">
 I am currently a PhD candidate at the University of Toronto conducting machine learning research on Bayesian methods for big data.
 Much of my work has involved scaling Gaussian Processes, as well as discrete latent variable models, and deep latent variable models.
 I am an inherently curious individual with a diverse range of interests and I like dabbling in new fields and applications.
@@ -10,9 +7,7 @@ If you are interested in collaborating on an application, please reach out to me
 [<a href="files/TreforEvans-CV.pdf">CV</a>]
 [<a href="https://scholar.google.ca/citations?user=oNL-h7UAAAAJ">Google Scholar</a>]
 [<a href="https://github.com/treforevans">Github</a>]
-</td>
-</tr>
-</table>
+<br clear="left" />
 
 # Publications
 <table style="width:100%"  border="0">
