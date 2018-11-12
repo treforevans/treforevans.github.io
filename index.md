@@ -16,12 +16,16 @@ Trefor W. Evans and Prasanth B. Nair. \
 International Conference on Machine Learning (ICML), 2018.\
 \[[Paper](https://arxiv.org/abs/1807.02125)\]
 \[[Code](https://github.com/treforevans/gp_grief)\]
+\[[Slides](files/gp-grief_icml_slides.pdf)\]
+\[[Poster](files/gp-grief_icml_poster.pdf)\]
 
 ### Exploiting Structure for Fast Kernel Learning
 Trefor W. Evans and Prasanth B. Nair. \
 SIAM International Conference on Data Mining (SDM), 2018.\
 \[[Paper](https://arxiv.org/abs/1808.03351)\]
 \[[Code](https://github.com/treforevans/gp_grid)\]
+\[[Slides](files/gappy_sdm_slides.pdf)\]
+\[[Poster](files/gappy_sdm_poster.pdf)\]
 
 # Teaching
 
