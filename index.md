@@ -3,7 +3,7 @@
 <td><img style="max-width: 250px; height: auto; " src="/imgs/trefor.jpg"></td>
 <td>
 I am currently a PhD candidate at the University of Toronto conducting machine learning research on Bayesian methods for big data.
-Much of my work has involved scaling Gaussian Processes to large datasets, however, I also work on discrete latent variable models as well as deep latent variable models.
+Much of my work has involved scaling Gaussian Processes, as well as discrete latent variable models, and deep latent variable models.
 I am an inherently curious individual with a diverse range of interests and I like dabbling in new fields and applications.
 If you are interested in collaborating on an application, please reach out to me! <br /> 
 <br /> 
@@ -59,3 +59,14 @@ I have been a teaching assistant in 12 engineering undergrad and graduate course
 During the winter 2019 term I will be co-instructing a new 3rd year Engineering Science course *ROB313 Learning from Data* alongside Prasanth B. Nair.
 
 # Engineering
+## D3ACE
+I am the lead developer for the library D3ACE which is currently being used in ongoing jet-engine development programs at Pratt & Whitney Canada.
+D3ACE contains a suite of Bayesian machine learning models for design exploration and optimization.
+
+## Atlas Human-Powered Helicopter
+Developed a Human-Powered Helicopter which won the Igor I. Sikorsky prize; the third largest monetary prize in aviation history at $250,000 which stood unclaimed for 33 years.
+See the record breaking [video](http://bit.ly/11fClAv)!
+I led the design, optimization and construction of the massive 20m x 20m x 4m helicopter structure.
+I was the lead test pilot and I hold the FAI world endurance record. [Video](https://bit.ly/2NyaxAy).
+Our small team of 6 engineering students and graduates manufactured all components in-house.
+Checkout our [project page](http://www.aerovelo.com/atlas-helicopter).
