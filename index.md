@@ -6,14 +6,16 @@ If you are interested in collaborating on an application, please reach out to me
 
 # Publications
 ### Discretely Relaxing Continuous Variables for tractable Variational Inference
-Trefor W. Evans and Prasanth B. Nair.\
- In Advances in Neural Information Processing Systems (NIPS), 2018.\
+Trefor W. Evans and Prasanth B. Nair.
+
+ In Advances in Neural Information Processing Systems (NIPS), 2018.
+
 \[[Paper](https://arxiv.org/abs/1809.04279)\]
 \[[Code](https://github.com/treforevans/direct)\]
 
 ### Scalable Gaussian Processes with Grid-Structured Eigenfunctions (GP-GRIEF)
-Trefor W. Evans and Prasanth B. Nair. \
-International Conference on Machine Learning (ICML), 2018.\
+Trefor W. Evans and Prasanth B. Nair.  <br /> 
+International Conference on Machine Learning (ICML), 2018. <br /> 
 \[[Paper](https://arxiv.org/abs/1807.02125)\]
 \[[Code](https://github.com/treforevans/gp_grief)\]
 \[[Slides](files/gp-grief_icml_slides.pdf)\]
