@@ -1,4 +1,3 @@
-# Trefor W. Evans
 <img align="left" style="max-width: 250px; height: auto; " src="/imgs/trefor.jpg">
 I am currently a PhD candidate at the University of Toronto conducting machine learning research on Bayesian methods for big data.
 Much of my work has involved scaling Gaussian Processes to large datasets, however, I also work on discrete latent variable models as well as deep latent variable models.
@@ -24,10 +23,10 @@ Trefor W. Evans and Prasanth B. Nair.  <br />
 <td>
 Trefor W. Evans and Prasanth B. Nair.  <br /> 
 International Conference on Machine Learning (ICML), 2018. <br /> 
-\[[Paper](https://arxiv.org/abs/1807.02125)\]
-\[[Code](https://github.com/treforevans/gp_grief)\]
-\[[Slides](files/gp-grief_icml_slides.pdf)\]
-\[[Poster](files/gp-grief_icml_poster.pdf)\]
+[<a href="https://arxiv.org/abs/1807.02125">Paper</a>]
+[<a href="https://github.com/treforevans/gp_grief">Code</a>]
+[<a href="files/gp-grief_icml_slides.pdf">Slides</a>]
+[<a href="files/gp-grief_icml_poster.pdf">Poster</a>]
 </td>
 </tr>
 </table>
