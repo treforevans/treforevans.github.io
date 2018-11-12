@@ -4,12 +4,14 @@ Much of my work has involved scaling Gaussian Processes to large datasets, howev
 I am an inherently curious individual with a diverse range of interests and I like dabbling in new fields and applications.
 If you are interested in collaborating on an application, please reach out to me!
 
+\[[CV](files/TreforEvans-CV.pdf)\]
+\[[Google Scholar](https://scholar.google.ca/citations?user=oNL-h7UAAAAJ)\]
+
 # Publications
 ### Discretely Relaxing Continuous Variables for tractable Variational Inference
-Trefor W. Evans and Prasanth B. Nair.
-
- In Advances in Neural Information Processing Systems (NIPS), 2018.
-
+<img align="left" src="imgs/direct.png">
+Trefor W. Evans and Prasanth B. Nair.  <br /> 
+ In Advances in Neural Information Processing Systems (NIPS), 2018.  <br /> 
 \[[Paper](https://arxiv.org/abs/1809.04279)\]
 \[[Code](https://github.com/treforevans/direct)\]
 
@@ -22,13 +24,17 @@ International Conference on Machine Learning (ICML), 2018. <br />
 \[[Poster](files/gp-grief_icml_poster.pdf)\]
 
 ### Exploiting Structure for Fast Kernel Learning
-Trefor W. Evans and Prasanth B. Nair. \
-SIAM International Conference on Data Mining (SDM), 2018.\
+Trefor W. Evans and Prasanth B. Nair.  <br /> 
+SIAM International Conference on Data Mining (SDM), 2018.  <br /> 
 \[[Paper](https://arxiv.org/abs/1808.03351)\]
 \[[Code](https://github.com/treforevans/gp_grid)\]
 \[[Slides](files/gappy_sdm_slides.pdf)\]
 \[[Poster](files/gappy_sdm_poster.pdf)\]
 
 # Teaching
+I have been a teaching assistant in 12 engineering undergrad and graduate courses at the University of Toronto. 
+
+**Coming soon ...**  <br /> 
+During the winter 2019 term I will be co-instructing a new 3rd year Engineering Science course *ROB313 Learning from Data* alongside Prasanth B. Nair.
 
 # Engineering
