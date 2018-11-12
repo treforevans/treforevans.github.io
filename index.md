@@ -9,14 +9,14 @@ If you are interested in collaborating on an application, please reach out to me
 
 # Publications
 ### Discretely Relaxing Continuous Variables for tractable Variational Inference
-<img align="left" style="max-width: 100px; height: auto; " src="imgs/direct.png">
+<img align="left" style="max-width: 130px; height: auto; " src="imgs/direct.png">
 Trefor W. Evans and Prasanth B. Nair.  <br /> 
  In Advances in Neural Information Processing Systems (NIPS), 2018.  <br /> 
 \[[Paper](https://arxiv.org/abs/1809.04279)\]
 \[[Code](https://github.com/treforevans/direct)\]
 
 ### Scalable Gaussian Processes with Grid-Structured Eigenfunctions (GP-GRIEF)
-<img align="left" style="max-width: 100px; height: auto; " src="imgs/gp-grief.png">
+<img align="left" style="max-width: 130px; height: auto; " src="imgs/gp-grief.png">
 Trefor W. Evans and Prasanth B. Nair.  <br /> 
 International Conference on Machine Learning (ICML), 2018. <br /> 
 \[[Paper](https://arxiv.org/abs/1807.02125)\]
@@ -25,7 +25,7 @@ International Conference on Machine Learning (ICML), 2018. <br />
 \[[Poster](files/gp-grief_icml_poster.pdf)\]
 
 ### Exploiting Structure for Fast Kernel Learning
-<img align="left" style="max-width: 100px; height: auto; " src="imgs/gappy.png">
+<img align="left" style="max-width: 130px; height: auto; " src="imgs/gappy.png">
 Trefor W. Evans and Prasanth B. Nair.  <br /> 
 SIAM International Conference on Data Mining (SDM), 2018.  <br /> 
 \[[Paper](https://arxiv.org/abs/1808.03351)\]
