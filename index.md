@@ -1,4 +1,8 @@
+<div>
+ <div>
 <img align="left" style="max-width: 250px; height: auto; " src="/imgs/trefor.jpg">
+</div>
+<div>
 I am currently a PhD candidate at the University of Toronto conducting machine learning research on Bayesian methods for big data.
 Much of my work has involved scaling Gaussian Processes to large datasets, however, I also work on discrete latent variable models as well as deep latent variable models.
 I am an inherently curious individual with a diverse range of interests and I like dabbling in new fields and applications.
@@ -7,6 +11,8 @@ If you are interested in collaborating on an application, please reach out to me
 \[[CV](files/TreforEvans-CV.pdf)\]
 \[[Google Scholar](https://scholar.google.ca/citations?user=oNL-h7UAAAAJ)\]
 \[[Github](https://github.com/treforevans)\]
+</div>
+</div>
 
 # Publications
 ### Discretely Relaxing Continuous Variables for tractable Variational Inference
