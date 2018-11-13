@@ -16,6 +16,14 @@ Trefor W. Evans and Prasanth B. Nair.  <br />
  In Advances in Neural Information Processing Systems (NIPS), 2018.  <br /> 
 [<a href="https://arxiv.org/abs/1809.04279">Paper</a>]
 [<a href="https://github.com/treforevans/direct">Code</a>]
+
+We explore a new research direction in variational inference with discrete latent variable priors.
+The proposed "DIRECT" approach
+can *exactly* compute ELBO gradients,
+its training complexity is *independent* of the number of training points, and
+its posterior samples consist of sparse and low-precision quantized integers.
+Using latent variables discretized as extremely low-precision 4-bit quantized integers, we
+demonstrate accurate inference on datasets with over two-million points where training takes just seconds.
 <br clear="right" />
 
 ### Scalable Gaussian Processes with Grid-Structured Eigenfunctions (GP-GRIEF)
@@ -26,6 +34,11 @@ International Conference on Machine Learning (ICML), 2018. <br />
 [<a href="https://github.com/treforevans/gp_grief">Code</a>]
 [<a href="files/gp-grief_icml_slides.pdf">Slides</a>]
 [<a href="files/gp-grief_icml_poster.pdf">Poster</a>]
+
+We introduce a kernel approximation strategy that enables computation of the Gaussian Process log marginal likelihood and all hyperparameter derivatives in O(*p*) time,
+where *p* is the rank of our approximation.
+This fast likelihood evaluation enables type-I or II Bayesian inference on large-scale datasets.
+We benchmark our algorithms on real-world problems with up to two-million training points and 10<sup>33</sup> inducing points!
 <br clear="right" />
 
 ### Exploiting Structure for Fast Kernel Learning
@@ -36,6 +49,11 @@ SIAM International Conference on Data Mining (SDM), 2018.  <br />
 [<a href="https://github.com/treforevans/gp_grid">Code</a>]
 [<a href="files/gappy_sdm_slides.pdf">Slides</a>]
 [<a href="files/gappy_sdm_poster.pdf">Poster</a>]
+
+We introduce two new approaches to perform exact Gaussian Process (GP) inference on massive image, video, spatial-temporal, or multi-output datasets 
+with missing observations.
+We demonstrate exact GP inference for a spatial-temporal climate modelling problem with 3.7 million training points as well as a video reconstruction problem with 1 billion points;
+to the best of our knowledge exact GP inference has not been attempted before on this scale.
 <br clear="right" />
 
 ### Undergraduate Thesis
@@ -60,8 +78,10 @@ During the winter 2019 term I will be co-instructing a new 3rd year Engineering 
 
 # Engineering
 ## D3ACE
+<img align="right" style="max-width: 400px; height: auto; " hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Aircraft_Engine_%2840169504072%29.jpg/1024px-Aircraft_Engine_%2840169504072%29.jpg">
 I am the lead developer for the library D3ACE which is currently being used in ongoing jet-engine development programs at Pratt & Whitney Canada.
 D3ACE contains a suite of Bayesian machine learning models for design exploration and optimization.
+<br clear="right" />
 
 ## Atlas Human-Powered Helicopter
 <img align="right" style="max-width: 500px; height: auto; " hspace="10" src="https://static1.squarespace.com/static/5500421ce4b028ce8ab9d39c/t/57ff9c4e37c581fd66484c4c/1476369509081/Atlas+RED+Comp_e.jpg?format=1500w">
