@@ -85,7 +85,8 @@ D3ACE contains a suite of Bayesian machine learning models for design exploratio
 
 ## Atlas Human-Powered Helicopter
 <img align="right" style="width: 500px; height: auto; object-fit: contain" hspace="10" src="https://static1.squarespace.com/static/5500421ce4b028ce8ab9d39c/t/57ff9c4e37c581fd66484c4c/1476369509081/Atlas+RED+Comp_e.jpg?format=1500w">
-Our team AeroVelo, a small team of 6 engineering students and graduates, developed a Human-Powered Helicopter which won the Igor I. Sikorsky prize; the third largest monetary prize in aviation history at 250,000 USD which stood unclaimed for 33 years.
+Our team AeroVelo, a small group of 6 engineering students and graduates, developed the human-powered helicopter that won the Igor I. Sikorsky prize;
+the third largest monetary prize in aviation history at 250,000 USD which stood unclaimed for 33 years.
 I led the design, optimization and construction of the massive 20m x 20m x 4m helicopter structure which is currently on permanent display at the Ontario Science Center.
 I was the lead test pilot for the aircraft and I hold the FAI world endurance record for human-powered helicopter flight.
 Checkout 
@@ -98,7 +99,7 @@ our [project page](http://www.aerovelo.com/atlas-helicopter).
 <img align="right" style="width: 500px; height: auto; object-fit: contain" hspace="10" src="https://static1.squarespace.com/static/5500421ce4b028ce8ab9d39c/t/57fb17e1ff7c5085cbe52604/1476073665068/?format=1000w">
 Developed a high-speed Human-Powered land vehicle that travelled at 144.17 km/hr on a flat road to break the world land-speed record.
 For [my undergraduate thesis](files/undergrad_thesis.pdf), I developed a practical aerodynamic shape optimization process to design Eta's highly laminar flow body (see [my blog post](http://www.aerovelo.com/mission-log/2015/7/24/aerodynamic-design-of-eta)). 
-Conducted other extensive research projects including structural and aero-structural optimization to design the vehicle's frame and wheels. 
+I also conducted other extensive research projects including structural and aero-structural optimization to design the vehicle's frame and wheels, and was one of the vehicle's test pilots. 
 Our small team of 3 to 6 people manufactured all components in-house.
 Checkout
 the [short video of our record-breaking run](https://www.youtube.com/watch?v=0JIB-rMGqCE), and
