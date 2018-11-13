@@ -1,5 +1,8 @@
 # TODO:
-* add an arrow for the DIRECT image from continuous to discrete and complete the boundary of Ontario for the gp-grid image
+* update profile pic. Make aspect ratio narrower so renders better on small screens
+* add an arrow for the DIRECT image from continuous to discrete
+* complete the boundary of Ontario for the gp-grid image
+* switch gp-grief pic to the poster version
 * consider adding a list of awards and achievements (see CV)
 * consider writing more about myself (see CV)
 
