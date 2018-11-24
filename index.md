@@ -17,6 +17,7 @@ Trefor W. Evans and Prasanth B. Nair.  <br />
 NIPS 2018 (Spotlight Paper) <br /> 
 [<a href="https://arxiv.org/abs/1809.04279">Paper</a>]
 [<a href="https://github.com/treforevans/direct">Code</a>]
+[<a href="https://youtu.be/x0XzyEJY0ds">Video (3 min)</a>]
 
 We explore a new research direction in variational inference with discrete latent variable priors.
 The proposed "DIRECT" approach
