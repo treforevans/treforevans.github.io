@@ -11,13 +11,15 @@ If you are interested in collaborating on an application, please reach out to me
 
 # Publications
 ###  Discretely Relaxing Continuous Variables for tractable Variational Inference
-<img align="right" style="width: 220px; height: auto; object-fit: contain" hspace="10" src="imgs/direct.png">
+<img align="right" style="width: 220px; height: 220px; object-fit: contain" hspace="10" src="imgs/direct.png">
 Trefor W. Evans and Prasanth B. Nair.  <br /> 
 <!--Neural Information Processing Systems-->
-NIPS 2018 (Spotlight Paper) <br /> 
+NeurIPS 2018 (Spotlight Paper) <br /> 
 [<a href="https://arxiv.org/abs/1809.04279">Paper</a>]
 [<a href="https://github.com/treforevans/direct">Code</a>]
 [<a href="https://youtu.be/x0XzyEJY0ds">Video (3 min)</a>]
+[<a href="files/direct_spotlight_nips_slides.pdf">Slides</a>]
+[<a href="files/direct_poster.pdf">Poster</a>]
 
 We explore a new research direction in variational inference with discrete latent variable priors.
 The proposed "DIRECT" approach
