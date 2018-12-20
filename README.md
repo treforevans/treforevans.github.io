@@ -1,8 +1,10 @@
 # TODO:
+* consider using a powerful theme like [this](https://github.com/sourcethemes/academic-kickstart) that will make the website look good more easily
 * update profile pic. Make aspect ratio narrower so renders better on small screens
 * add an arrow for the DIRECT image from continuous to discrete
 * complete the boundary of Ontario for the gp-grid image
 * switch gp-grief pic to the poster version
+* list the courses I have TA'd
 * consider adding a list of awards and achievements (see CV)
 * consider writing more about myself (see CV)
 
