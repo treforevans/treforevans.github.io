@@ -20,6 +20,8 @@ NeurIPS 2018 (Spotlight Paper) <br />
 [<a href="https://youtu.be/x0XzyEJY0ds">Video (3 min)</a>]
 [<a href="files/direct_spotlight_nips_slides.pdf">Slides</a>]
 [<a href="files/direct_poster.pdf">Poster</a>]
+[<a href="https://www.videoken.com/embed/6VT0nvWuv-4?tocitem=14">NeurIPS Spotlight</a>]
+
 
 We explore a new research direction in variational inference with discrete latent variable priors.
 The proposed "DIRECT" approach
