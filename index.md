@@ -4,7 +4,7 @@ Much of my work has involved scaling Gaussian Processes, as well as discrete lat
 I am an inherently curious individual with a diverse range of interests and I like dabbling in new fields and applications.
 If you are interested in collaborating on an application, please reach out to me! <br /> 
 <br /> 
-[<a href="files/TreforEvans-CV.pdf">CV</a>]
+<!--[<a href="files/TreforEvans-CV.pdf">CV</a>]-->
 [<a href="https://scholar.google.ca/citations?user=oNL-h7UAAAAJ">Google Scholar</a>]
 [<a href="https://github.com/treforevans">Github</a>]
 <br clear="left" />
