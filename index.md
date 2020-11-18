@@ -1,8 +1,10 @@
 <img align="left" style="width: 250px; height: auto; object-fit: contain" hspace="10" src="/imgs/trefor.jpg">
-I am currently a PhD candidate at the University of Toronto conducting machine learning research on Bayesian methods for big data.
-Much of my work has involved scaling Gaussian Processes, as well as discrete latent variable models, and deep latent variable models.
-I am an inherently curious individual with a diverse range of interests and I like dabbling in new fields and applications.
-If you are interested in collaborating on an application, please reach out to me! <br /> 
+I am a PhD student at the University of Toronto. 
+My research focuses on developing Bayesian inference algorithms for complex models that scale to large
+datasets. 
+I am also the chief developer of the software package D3ACE that is used by Pratt & Whitney Canada for
+next-generation jet-engine design, a position I've held for the past 5 years. 
+Before my PhD, I completed a BASc in Engineering Science at the University of Toronto. 
 <br /> 
 <!--[<a href="files/TreforEvans-CV.pdf">CV</a>]-->
 [<a href="https://scholar.google.ca/citations?user=oNL-h7UAAAAJ">Google Scholar</a>]
