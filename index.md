@@ -105,37 +105,45 @@ the [AeroVelo project page](http://www.aerovelo.com/our-projects/#eta-speedbike)
 
 # Teaching
 #### UofT ROB313: Learning from Data
-Instructed (and built the course) Spring 2019, 2020, 2021.
+Instructed (and built the course). <br /> 
+Spring 2019, 2020, 2021.
 
 #### UofT AER1415: Computational Optimization
-Teaching assistant Spring 2017.
+Teaching assistant. <br /> 
+Spring 2017.
 
 #### UofT AER407: Space Systems Design
-Teaching assistant Fall 2015, 2016, 2017, 2018, 2019.
+Teaching assistant. <br /> 
+Fall 2015, 2016, 2017, 2018, 2019.
 
 #### UofT MIE301: Kinematics & Dynamics of Machines
-Teaching assistant Fall 2015, 2016.
+Teaching assistant. <br /> 
+Fall 2015, 2016.
 
 #### UofT ESC101: Praxis I
-Teaching assistant Fall 2015, 2016.
+Teaching assistant. <br /> 
+Fall 2015, 2016.
 
 #### UofT ESC102: Praxis II
-Teaching assistant Spring 2016.
+Teaching assistant. <br /> 
+Spring 2016.
 
 #### UofT APS113: Engineering Strategies and Practice I
-Teaching assistant Fall 2015.
+Teaching assistant. <br /> 
+Fall 2015.
 
 #### UofT APS112: Engineering Strategies and Practice II
-Teaching assistant Spring 2016.
+Teaching assistant. <br /> 
+Spring 2016.
 
 # Engineering
-## D3ACE
+### D3ACE
 <img align="right" style="width: 400px; height: auto; object-fit: contain" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Aircraft_Engine_%2840169504072%29.jpg/1024px-Aircraft_Engine_%2840169504072%29.jpg">
 I am the lead developer for the library D3ACE which is currently being used in ongoing jet-engine development programs at Pratt & Whitney Canada.
 D3ACE contains a suite of Bayesian machine learning models for design exploration and optimization.
 <br clear="right" />
 
-## Atlas Human-Powered Helicopter
+### Atlas Human-Powered Helicopter
 <img align="right" style="width: 500px; height: auto; object-fit: contain" hspace="10" src="https://static1.squarespace.com/static/5500421ce4b028ce8ab9d39c/t/57ff9c4e37c581fd66484c4c/1476369509081/Atlas+RED+Comp_e.jpg?format=1500w">
 Our team AeroVelo, a small group of 6 engineering students and graduates, developed the human-powered helicopter that won the Igor I. Sikorsky prize;
 the third largest monetary prize in aviation history at 250,000 USD which stood unclaimed for 33 years.
@@ -147,7 +155,7 @@ the [short video of my record-breaking endurance flight](https://www.youtube.com
 our [project page](http://www.aerovelo.com/atlas-helicopter).
 <br clear="right" />
 
-## Eta Speedbike
+### Eta Speedbike
 <img align="right" style="width: 500px; height: auto; object-fit: contain" hspace="10" src="https://static1.squarespace.com/static/5500421ce4b028ce8ab9d39c/t/57fb17e1ff7c5085cbe52604/1476073665068/?format=1000w">
 Developed a high-speed Human-Powered land vehicle that travelled at 144.17 km/hr on a flat road to break the world land-speed record.
 For [my undergraduate thesis](files/undergrad_thesis.pdf), I developed a practical aerodynamic shape optimization process to design Eta's highly laminar flow body (see [my blog post](http://www.aerovelo.com/mission-log/2015/7/24/aerodynamic-design-of-eta)). 
