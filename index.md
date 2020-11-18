@@ -22,13 +22,13 @@ We present a method for learning generalized Hamiltonian decompositions of ordin
 Our method simultaneously learns a continuous time model and a scalar energy function for a general dynamical system. 
 Learning predictive models in this form allows one to place strong, high-level, physics inspired priors onto the form of the learnt 
 governing equations for general dynamical systems. 
-Moreover, having shown howo ur method extends and unifies some previous work in deep learning with physics inspired priors, 
+Moreover, having shown how our method extends and unifies some previous work in deep learning with physics inspired priors, 
 we present a novel method for learning continuous time models from the weak form of the governing equations which is less computationally 
 taxing than standard adjoint methods.
 <br clear="right" />
 
 ###  Quadruply Stochastic Gaussian Processes
-<img align="right" style="width: 220px; height: 220px; object-fit: contain" hspace="10" src="imgs/qsgp.png">
+<img align="right" style="width: 220px; height: 220px; object-fit: contain" hspace="10" src="imgs/qsgp.PNG">
 Trefor W. Evans and Prasanth B. Nair.  <br />  
 [<a href="https://arxiv.org/abs/2006.03015">Paper</a>]
 
