@@ -6,7 +6,6 @@
 * switch gp-grief pic to the poster version
 * list the courses I have TA'd
 * consider adding a list of awards and achievements (see CV)
-* consider writing more about myself (see CV)
 
 # To view site locally with Jekyll
 Instructions for setup are described [here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/).

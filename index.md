@@ -10,6 +10,36 @@ If you are interested in collaborating on an application, please reach out to me
 <br clear="left" />
 
 # Publications
+###  Weak Form Generalized Hamiltonian Learning
+<img align="right" style="width: 220px; height: 220px; object-fit: contain" hspace="10" src="https://github.com/coursekevin/weakformghnn/raw/main/assets/lorenz_trajectories.png">
+Kevin L. Course, Trefor W. Evans and Prasanth B. Nair.  <br /> 
+<!--Neural Information Processing Systems-->
+NeurIPS 2020 <br /> 
+[<a href="https://papers.nips.cc/paper/2020/file/d93c96e6a23fff65b91b900aaa541998-Paper.pdf">Paper</a>]
+[<a href="https://github.com/coursekevin/weakformghnn">Code</a>]
+
+We present a method for learning generalized Hamiltonian decompositions of ordinary differential equations given a set of noisy time series measurements. 
+Our method simultaneously learns a continuous time model and a scalar energy function for a general dynamical system. 
+Learning predictive models in this form allows one to place strong, high-level, physics inspired priors onto the form of the learnt 
+governing equations for general dynamical systems. 
+Moreover, having shown howo ur method extends and unifies some previous work in deep learning with physics inspired priors, 
+we present a novel method for learning continuous time models from the weak form of the governing equations which is less computationally 
+taxing than standard adjoint methods.
+<br clear="right" />
+
+###  Quadruply Stochastic Gaussian Processes
+<img align="right" style="width: 220px; height: 220px; object-fit: contain" hspace="10" src="imgs/qsgp.png">
+Trefor W. Evans and Prasanth B. Nair.  <br />  
+[<a href="https://arxiv.org/abs/2006.03015">Paper</a>]
+
+We introduce a stochastic variational inference procedure for training scalable Gaussian process (GP) models whose per-iteration 
+complexity is independent of both the number of training points, *n*, and the number basis functions used in the kernel approximation, *m*. 
+Our central contributions include an unbiased stochastic estimator of the evidence lower bound (ELBO) for a Gaussian likelihood, 
+as well as a stochastic estimator that lower bounds the ELBO for several other likelihoods such as Laplace and logistic. 
+Independence of the stochastic optimization update complexity on *n* and *m* enables inference on huge datasets using large capacity GP models. 
+We demonstrate accurate inference on large classification and regression datasets using GPs and relevance vector machines with up to *m*=10<sup>7</sup> basis functions. 
+<br clear="right" />
+
 ###  Discretely Relaxing Continuous Variables for tractable Variational Inference
 <img align="right" style="width: 220px; height: 220px; object-fit: contain" hspace="10" src="imgs/direct.png">
 Trefor W. Evans and Prasanth B. Nair.  <br /> 
@@ -21,7 +51,6 @@ NeurIPS 2018 (Spotlight Paper) <br />
 [<a href="files/direct_spotlight_nips_slides.pdf">Slides</a>]
 [<a href="files/direct_poster.pdf">Poster</a>]
 [<a href="https://www.videoken.com/embed/6VT0nvWuv-4?tocitem=14">NeurIPS Spotlight</a>]
-
 
 We explore a new research direction in variational inference with discrete latent variable priors.
 The proposed "DIRECT" approach
