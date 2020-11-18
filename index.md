@@ -104,10 +104,29 @@ the [AeroVelo project page](http://www.aerovelo.com/our-projects/#eta-speedbike)
 <br clear="right" />
 
 # Teaching
-I have been a teaching assistant in 12 engineering undergrad and graduate courses at the University of Toronto. 
+#### UofT ROB313: Learning from Data
+Instructed (and built the course) Spring 2019, 2020, 2021.
 
-**Coming soon ...**  <br /> 
-During the winter 2019 term I will be co-instructing a new 3rd year Engineering Science course *ROB313 Learning from Data* alongside Prasanth B. Nair.
+#### UofT AER1415: Computational Optimization
+Teaching assistant Spring 2017.
+
+#### UofT AER407: Space Systems Design
+Teaching assistant Fall 2015, 2016, 2017, 2018, 2019.
+
+#### UofT MIE301: Kinematics & Dynamics of Machines
+Teaching assistant Fall 2015, 2016.
+
+#### UofT ESC101: Praxis I
+Teaching assistant Fall 2015, 2016.
+
+#### UofT ESC102: Praxis II
+Teaching assistant Spring 2016.
+
+#### UofT APS113: Engineering Strategies and Practice I
+Teaching assistant Fall 2015.
+
+#### UofT APS112: Engineering Strategies and Practice II
+Teaching assistant Spring 2016.
 
 # Engineering
 ## D3ACE
