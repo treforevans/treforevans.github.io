@@ -13,8 +13,7 @@ If you are interested in collaborating on an application, please reach out to me
 ###  Weak Form Generalized Hamiltonian Learning
 <img align="right" style="width: 220px; height: 220px; object-fit: contain" hspace="10" src="https://github.com/coursekevin/weakformghnn/raw/main/assets/lorenz_trajectories.png">
 Kevin L. Course, Trefor W. Evans and Prasanth B. Nair.  <br /> 
-<!--Neural Information Processing Systems-->
-NeurIPS 2020 <br /> 
+Neural Information Processing Systems (NeurIPS), 2020 <br /> 
 [<a href="https://papers.nips.cc/paper/2020/file/d93c96e6a23fff65b91b900aaa541998-Paper.pdf">Paper</a>]
 [<a href="https://github.com/coursekevin/weakformghnn">Code</a>]
 
@@ -43,8 +42,7 @@ We demonstrate accurate inference on large classification and regression dataset
 ###  Discretely Relaxing Continuous Variables for tractable Variational Inference
 <img align="right" style="width: 220px; height: 220px; object-fit: contain" hspace="10" src="imgs/direct.png">
 Trefor W. Evans and Prasanth B. Nair.  <br /> 
-<!--Neural Information Processing Systems-->
-NeurIPS 2018 (Spotlight Paper) <br /> 
+Neural Information Processing Systems (NeurIPS), 2018 (Spotlight Paper) <br /> 
 [<a href="https://arxiv.org/abs/1809.04279">Paper</a>]
 [<a href="https://github.com/treforevans/direct">Code</a>]
 [<a href="https://youtu.be/x0XzyEJY0ds">Video (3 min)</a>]
@@ -64,8 +62,7 @@ demonstrate accurate inference on datasets with over two-million points where tr
 ### Scalable Gaussian Processes with Grid-Structured Eigenfunctions (GP-GRIEF)
 <img align="right" style="width: 200px; height: auto; object-fit: contain" hspace="10" src="imgs/gp-grief.png">
 Trefor W. Evans and Prasanth B. Nair.  <br /> 
-<!--International Conference on Machine Learning -->
-ICML 2018 (Long Talk) <br /> 
+International Conference on Machine Learning (ICML), 2018 (Long Talk) <br /> 
 [<a href="https://arxiv.org/abs/1807.02125">Paper</a>]
 [<a href="https://github.com/treforevans/gp_grief">Code</a>]
 [<a href="files/gp-grief_icml_slides.pdf">Slides</a>]
