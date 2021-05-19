@@ -1,7 +1,6 @@
 # TODO:
 * consider using a powerful theme like [this](https://github.com/sourcethemes/academic-kickstart) that will make the website look good more easily
 * update profile pic. Make aspect ratio narrower so renders better on small screens
-* list the courses I have TA'd
 * consider adding a list of awards and achievements (see CV)
 
 # To view site locally with Jekyll

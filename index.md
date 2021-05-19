@@ -1,7 +1,9 @@
 <img align="left" style="width: 250px; height: auto; object-fit: contain" hspace="10" src="/imgs/trefor.jpg">
 I am the co-founder and CEO of Infera AI, a new startup composed of researchers and faculty from the University of Toronto and MIT.
 I am also completing my PhD at the University of Toronto. 
-Before my PhD, I completed a BASc in Engineering Science at the University of Toronto. 
+Before my PhD, I completed a BASc in Engineering Science at the University of Toronto.
+I was also a structural design lead and pilot of helicopter that claimed an elusive $250,000 33-year-old aviation prize, and
+I optimized the aerodynamics of a bicycle that set a new world cycling speed record at 144.17km/hr.
 <br clear="left" />
 
 # Publications
@@ -106,39 +108,33 @@ the [AeroVelo project page](http://www.aerovelo.com/our-projects/#eta-speedbike)
 <br clear="right" />
 
 # Teaching
-#### UofT ROB313: Learning from Data
-An introductory machine learning course for 3rd year Engineering Science students 
+### UofT ROB313: Learning from Data
+I instructed an introductory machine learning course for 3rd year Engineering Science students 
 in the Robotics majour at the University of Toronto.
-This is a brand new course that was built from the ground up and has a stronger emphasis on Bayesian methods
+This is a brand new course that I built from the ground up and has a stronger emphasis on Bayesian methods
 than other introductory machine learning courses. <br /> 
 Spring 2019, 2020, 2021.
 
-#### UofT AER1415: Computational Optimization
-Teaching assistant. <br /> 
+### UofT Teaching Assistant
+* AER1415: Computational Optimization. 
 Spring 2017.
 
-#### UofT AER407: Space Systems Design
-Teaching assistant. <br /> 
+* AER407: Space Systems Design. 
 Fall 2015, 2016, 2017, 2018, 2019.
 
-#### UofT MIE301: Kinematics & Dynamics of Machines
-Teaching assistant. <br /> 
+* MIE301: Kinematics & Dynamics of Machines
 Fall 2015, 2016.
 
-#### UofT ESC101: Praxis I
-Teaching assistant. <br /> 
+* ESC101: Praxis I
 Fall 2015, 2016.
 
-#### UofT ESC102: Praxis II
-Teaching assistant. <br /> 
+* ESC102: Praxis II
 Spring 2016.
 
-#### UofT APS113: Engineering Strategies and Practice I
-Teaching assistant. <br /> 
+* APS113: Engineering Strategies and Practice I
 Fall 2015.
 
-#### UofT APS112: Engineering Strategies and Practice II
-Teaching assistant. <br /> 
+* APS112: Engineering Strategies and Practice II
 Spring 2016.
 
 # Engineering
