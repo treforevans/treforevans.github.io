@@ -1,17 +1,17 @@
 <img align="left" style="width: 250px; height: auto; object-fit: contain" hspace="10" src="/imgs/trefor.jpg">
-I am a PhD student at the University of Toronto. 
-My research focuses on developing Bayesian inference algorithms for complex models that scale to large
-datasets. 
-I am also the chief developer of the software package D3ACE that is used by Pratt & Whitney Canada for
-next-generation jet-engine design, a position I've held for the past 5 years. 
+I am the co-founder and CEO of Infera AI, a new startup composed of researchers and faculty from the University of Toronto and MIT.
+I am also completing my PhD at the University of Toronto. 
 Before my PhD, I completed a BASc in Engineering Science at the University of Toronto. 
+<br clear="left" />
+
+# Publications
+My research primarily focuses on developing Bayesian inference algorithms for complex models that scale to large
+datasets. 
 <br /> 
 <!--[<a href="files/TreforEvans-CV.pdf">CV</a>]-->
 [<a href="https://scholar.google.ca/citations?user=oNL-h7UAAAAJ">Google Scholar</a>]
 [<a href="https://github.com/treforevans">Github</a>]
-<br clear="left" />
 
-# Publications
 ###  Weak Form Generalized Hamiltonian Learning
 <img align="right" style="width: 220px; height: 220px; object-fit: contain" hspace="10" src="https://github.com/coursekevin/weakformghnn/raw/main/assets/lorenz_trajectories.png">
 Kevin L. Course, Trefor W. Evans and Prasanth B. Nair.  <br /> 
@@ -107,7 +107,10 @@ the [AeroVelo project page](http://www.aerovelo.com/our-projects/#eta-speedbike)
 
 # Teaching
 #### UofT ROB313: Learning from Data
-Instructed (and built the course). <br /> 
+An introductory machine learning course for 3rd year Engineering Science students 
+in the Robotics majour at the University of Toronto.
+This is a brand new course that was built from the ground up and has a stronger emphasis on Bayesian methods
+than other introductory machine learning courses. <br /> 
 Spring 2019, 2020, 2021.
 
 #### UofT AER1415: Computational Optimization
@@ -141,7 +144,7 @@ Spring 2016.
 # Engineering
 ### D3ACE
 <img align="right" style="width: 400px; height: auto; object-fit: contain" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Aircraft_Engine_%2840169504072%29.jpg/1024px-Aircraft_Engine_%2840169504072%29.jpg">
-I am the lead developer for the library D3ACE which is currently being used in ongoing jet-engine development programs at Pratt & Whitney Canada.
+For several years I was the lead developer for the library D3ACE which is used in ongoing jet-engine development programs at Pratt & Whitney Canada.
 D3ACE contains a suite of Bayesian machine learning models for design exploration and optimization.
 <br clear="right" />
 
