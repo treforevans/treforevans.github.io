@@ -6,6 +6,11 @@ I was also a structural design lead and pilot of helicopter that claimed an elus
 I optimized the aerodynamics of a bicycle that set a new world cycling speed record at 144.17km/hr.
 <br clear="left" />
 
+<!-- table of contents uses the vscode markdown-all-in-one extension. Automatically updated on save. -->
+- [Publications](#publications)
+- [Teaching](#teaching)
+- [Engineering](#engineering)
+
 # Publications
 My research primarily focuses on developing Bayesian inference algorithms for complex models that scale to large
 datasets. 
