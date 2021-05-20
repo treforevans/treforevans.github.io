@@ -23,7 +23,7 @@ datasets.
 <img align="right" style="width: 220px; height: 220px; object-fit: contain" hspace="10" src="https://github.com/coursekevin/weakformghnn/raw/main/assets/lorenz_trajectories.png" alt="lorenz trajectories">
 Kevin L. Course, Trefor W. Evans and Prasanth B. Nair.  <br /> 
 Neural Information Processing Systems (NeurIPS), 2020 <br /> 
-[<a href="https://papers.nips.cc/paper/2020/file/d93c96e6a23fff65b91b900aaa541998-Paper.pdf">Paper</a>]
+[<a href="https://arxiv.org/abs/2104.05096">Paper</a>]
 [<a href="https://github.com/coursekevin/weakformghnn">Code</a>]
 
 We present a method for learning generalized Hamiltonian decompositions of ordinary differential equations given a set of noisy time series measurements. 
