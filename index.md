@@ -1,4 +1,4 @@
-<img align="left" style="width: 250px; height: auto; object-fit: contain" hspace="10" src="/imgs/trefor.jpg">
+<img align="left" style="width: 250px; height: auto; object-fit: contain" hspace="10" src="/imgs/trefor.jpg" alt="Trefor Evans">
 I am the co-founder and CEO of Infera AI, a new startup composed of researchers and faculty from the University of Toronto and MIT.
 I am also completing my PhD at the University of Toronto. 
 Before my PhD, I completed a BASc in Engineering Science at the University of Toronto.
@@ -20,7 +20,7 @@ datasets.
 [<a href="https://github.com/treforevans">Github</a>]
 
 ###  Weak Form Generalized Hamiltonian Learning
-<img align="right" style="width: 220px; height: 220px; object-fit: contain" hspace="10" src="https://github.com/coursekevin/weakformghnn/raw/main/assets/lorenz_trajectories.png">
+<img align="right" style="width: 220px; height: 220px; object-fit: contain" hspace="10" src="https://github.com/coursekevin/weakformghnn/raw/main/assets/lorenz_trajectories.png" alt="lorenz trajectories">
 Kevin L. Course, Trefor W. Evans and Prasanth B. Nair.  <br /> 
 Neural Information Processing Systems (NeurIPS), 2020 <br /> 
 [<a href="https://papers.nips.cc/paper/2020/file/d93c96e6a23fff65b91b900aaa541998-Paper.pdf">Paper</a>]
@@ -36,7 +36,7 @@ taxing than standard adjoint methods.
 <br clear="right" />
 
 ###  Quadruply Stochastic Gaussian Processes
-<img align="right" style="width: 220px; height: 220px; object-fit: contain" hspace="10" src="imgs/qsgp.PNG">
+<img align="right" style="width: 220px; height: 220px; object-fit: contain" hspace="10" src="imgs/qsgp.PNG" alt="relevance vector machine">
 Trefor W. Evans and Prasanth B. Nair.  <br />  
 [<a href="https://arxiv.org/abs/2006.03015">Paper</a>]
 
@@ -49,7 +49,7 @@ We demonstrate accurate inference on large classification and regression dataset
 <br clear="right" />
 
 ###  Discretely Relaxing Continuous Variables for tractable Variational Inference
-<img align="right" style="width: 220px; height: 220px; object-fit: contain" hspace="10" src="imgs/direct.png">
+<img align="right" style="width: 220px; height: 220px; object-fit: contain" hspace="10" src="imgs/direct.png" alt="discrete relaxation">
 Trefor W. Evans and Prasanth B. Nair.  <br /> 
 Neural Information Processing Systems (NeurIPS), 2018 (Spotlight Paper) <br /> 
 [<a href="https://arxiv.org/abs/1809.04279">Paper</a>]
@@ -69,7 +69,7 @@ demonstrate accurate inference on datasets with over two-million points where tr
 <br clear="right" />
 
 ### Scalable Gaussian Processes with Grid-Structured Eigenfunctions (GP-GRIEF)
-<img align="right" style="width: 200px; height: auto; object-fit: contain" hspace="10" src="imgs/gp-grief.png">
+<img align="right" style="width: 200px; height: auto; object-fit: contain" hspace="10" src="imgs/gp-grief.png" alt="gp-grief">
 Trefor W. Evans and Prasanth B. Nair.  <br /> 
 International Conference on Machine Learning (ICML), 2018 (Long Talk) <br /> 
 [<a href="https://arxiv.org/abs/1807.02125">Paper</a>]
@@ -84,7 +84,7 @@ We benchmark our algorithms on real-world problems with up to two-million traini
 <br clear="right" />
 
 ### Exploiting Structure for Fast Kernel Learning
-<img align="right" style="width: 200px; height: auto; object-fit: contain" hspace="10" src="imgs/gappy.png">
+<img align="right" style="width: 200px; height: auto; object-fit: contain" hspace="10" src="imgs/gappy.png" alt="Ontario spatiotemporal">
 Trefor W. Evans and Prasanth B. Nair.  <br /> 
 SIAM International Conference on Data Mining (SDM), 2018.  <br /> 
 [<a href="https://arxiv.org/abs/1808.03351">Paper</a>]
@@ -99,7 +99,7 @@ to the best of our knowledge exact GP inference has not been attempted before on
 <br clear="right" />
 
 ### Undergraduate Thesis
-<img align="right" style="width: 250px; height: auto; object-fit: contain" hspace="10" src="imgs/eta_ideal_cp.jpg">
+<img align="right" style="width: 250px; height: auto; object-fit: contain" hspace="10" src="imgs/eta_ideal_cp.jpg" alt="Eta speedbike">
 Trefor W. Evans  <br /> 
 University of Toronto, Engineering Science, 2014.  <br /> 
 [<a href="files/undergrad_thesis.pdf">Thesis</a>]
@@ -144,13 +144,13 @@ Spring 2016.
 
 # Engineering
 ### D3ACE
-<img align="right" style="width: 400px; height: auto; object-fit: contain" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Aircraft_Engine_%2840169504072%29.jpg/1024px-Aircraft_Engine_%2840169504072%29.jpg">
+<img align="right" style="width: 400px; height: auto; object-fit: contain" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Aircraft_Engine_%2840169504072%29.jpg/1024px-Aircraft_Engine_%2840169504072%29.jpg" alt="gas turbine engine">
 For several years I was the lead developer for the library D3ACE which is used in ongoing jet-engine development programs at Pratt & Whitney Canada.
 D3ACE contains a suite of Bayesian machine learning models for design exploration and optimization.
 <br clear="right" />
 
 ### Atlas Human-Powered Helicopter
-<img align="right" style="width: 500px; height: auto; object-fit: contain" hspace="10" src="https://static1.squarespace.com/static/5500421ce4b028ce8ab9d39c/t/57ff9c4e37c581fd66484c4c/1476369509081/Atlas+RED+Comp_e.jpg?format=1500w">
+<img align="right" style="width: 500px; height: auto; object-fit: contain" hspace="10" src="https://static1.squarespace.com/static/5500421ce4b028ce8ab9d39c/t/57ff9c4e37c581fd66484c4c/1476369509081/Atlas+RED+Comp_e.jpg?format=1500w" alt="Atlas human-powered helicopter">
 Our team AeroVelo, a small group of 6 engineering students and graduates, developed the human-powered helicopter that won the Igor I. Sikorsky prize;
 the third largest monetary prize in aviation history at 250,000 USD which stood unclaimed for 33 years.
 I led the design, optimization and construction of the massive 20m x 20m x 4m helicopter structure which is currently on permanent display at the Ontario Science Center.
@@ -162,7 +162,7 @@ our [project page](http://www.aerovelo.com/atlas-helicopter).
 <br clear="right" />
 
 ### Eta Speedbike
-<img align="right" style="width: 500px; height: auto; object-fit: contain" hspace="10" src="https://static1.squarespace.com/static/5500421ce4b028ce8ab9d39c/t/57fb17e1ff7c5085cbe52604/1476073665068/?format=1000w">
+<img align="right" style="width: 500px; height: auto; object-fit: contain" hspace="10" src="https://static1.squarespace.com/static/5500421ce4b028ce8ab9d39c/t/57fb17e1ff7c5085cbe52604/1476073665068/?format=1000w" alt="Eta speedbike, Battle Mountain">
 Developed a high-speed Human-Powered land vehicle that travelled at 144.17 km/hr on a flat road to break the world land-speed record.
 For [my undergraduate thesis](files/undergrad_thesis.pdf), I developed a practical aerodynamic shape optimization process to design Eta's highly laminar flow body (see [my blog post](http://www.aerovelo.com/mission-log/2015/7/24/aerodynamic-design-of-eta)). 
 I also conducted other extensive research projects including structural and aero-structural optimization to design the vehicle's frame and wheels, and was one of the vehicle's test pilots. 
